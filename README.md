@@ -1,4 +1,4 @@
-# The Basics of GitHub 
+# Ejercicios de C++ CARRILLO MACIAS JOEL SEBASTIAN
 
 ##  Course overview and learning outcomes 
 
