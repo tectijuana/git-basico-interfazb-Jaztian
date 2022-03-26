@@ -47,8 +47,6 @@ Problema 37, Capitulo 3
 
 Problema 59, Capitulo 3
 
-Problema 75 , Capitulo 3
-
 Problema 1 , Capirulo 4
 
 Problema 2, Capirulo 4
@@ -60,33 +58,3 @@ Problema 8,, Capirulo 4
 Problema 11, Capirulo 4
 
 Problema 16, Capirulo 4
-
-Problema 5, Capirulo 5
-
-Problema 1, Capirulo 5
-
-Problema 2, Capirulo 5
-
-Problema 5, Capirulo 5
-
-Problema 6, Capirulo 5
-
-Problema 7, Capirulo 5
-
-Problema 15, Capirulo 5
-
-Problema 17, Capirulo 5
-
-Problema 22, Capirulo 5
-
-Problema 23, Capirulo 5
-
-Problema 28, Capirulo 5
-
-Problema 55, Capirulo 5
-
-Problema 62, Capirulo 5
-
-Problema 6, Capirulo 5
-
-Problema 79, Capirulo 5
